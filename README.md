@@ -1,7 +1,8 @@
 ## O que esse repositório contém
 
-- Lading page
-- Aplicativo
+- Landing page - Angular
+- App web - ReactJs (NextJs)
+- Aplicativo - Flutter
 
 ### Funcionalidades
 
