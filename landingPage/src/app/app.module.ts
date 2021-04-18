@@ -4,12 +4,16 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { CabecalhoComponent } from './header/cabecalho/cabecalho.component';
+import { HeaderComponent } from './header/header.component';
+import { FooterComponent } from './footer/footer.component';
+import { HomeComponent } from './pages/home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    CabecalhoComponent
+    HeaderComponent,
+    FooterComponent,
+    HomeComponent,
   ],
   imports: [
     BrowserModule,
